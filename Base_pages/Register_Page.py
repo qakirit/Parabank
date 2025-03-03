@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 class Register:
-    # Locators
+    # Locators test
     id_first_name = "customer.firstName"
     id_last_name = "customer.lastName"
     id_address = "customer.address.street"
